@@ -6,7 +6,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![ModelScope](https://img.shields.io/badge/🤗%20ModelScope-Fast--Video-f196-orange)](https://www.modelscope.cn/models/JRpromax/Fast-Video-f196)
+[![ModelScope](https://img.shields.io/static/v1?label=ModelScope&message=Fast-Video-f196&color=orange&logo=modelscope&logoColor=white)](https://www.modelscope.cn/models/JRpromax/Fast-Video-f196)
 
 </div>
 
