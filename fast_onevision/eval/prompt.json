@@ -1,0 +1,10 @@
+[
+    {
+        "image": "demo.jpg",
+        "text": "Describe this picture in detail."
+    },
+    {
+        "video": "demo.avi",
+        "text": "What did the woman in the video do?"
+    }
+]
